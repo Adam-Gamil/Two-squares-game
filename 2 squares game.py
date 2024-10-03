@@ -1,9 +1,6 @@
 # Description of Game 3 (2 squares game): The game is played between 2 players each player takes a turn
 # the player must choose 2 numbers from 1 to 16, but it should form a vertical or a horizontal rectangle shape
 # a square cannot be covered twice, the last player who can place a card on the board is the winner.
-# Author: Adam Mohamed Gamil Abdel Latif
-# ID: 20230041
-# section: still no section
 # version: 1.0
 # Date: 3/3/2024
 
